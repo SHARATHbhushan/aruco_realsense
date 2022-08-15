@@ -1,0 +1,50 @@
+[0.895s] Invoking command in '/home/student/aruco_realsense/src/ros2_aruco/ros2_aruco': PYTHONPATH=/home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ros2_aruco build --build-base /home/student/aruco_realsense/build/ros2_aruco/build install --prefix /home/student/aruco_realsense/install/ros2_aruco --record /home/student/aruco_realsense/build/ros2_aruco/install.log --single-version-externally-managed
+[1.112s] running egg_info
+[1.112s] creating ../../../build/ros2_aruco/ros2_aruco.egg-info
+[1.112s] writing ../../../build/ros2_aruco/ros2_aruco.egg-info/PKG-INFO
+[1.113s] writing dependency_links to ../../../build/ros2_aruco/ros2_aruco.egg-info/dependency_links.txt
+[1.113s] writing entry points to ../../../build/ros2_aruco/ros2_aruco.egg-info/entry_points.txt
+[1.113s] writing requirements to ../../../build/ros2_aruco/ros2_aruco.egg-info/requires.txt
+[1.113s] writing top-level names to ../../../build/ros2_aruco/ros2_aruco.egg-info/top_level.txt
+[1.114s] writing manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[1.157s] reading manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[1.158s] writing manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[1.158s] running build
+[1.158s] running build_py
+[1.159s] creating /home/student/aruco_realsense/build/ros2_aruco/build
+[1.159s] creating /home/student/aruco_realsense/build/ros2_aruco/build/lib
+[1.159s] creating /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+[1.159s] copying ros2_aruco/aruco_node.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+[1.159s] copying ros2_aruco/transformations.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+[1.160s] copying ros2_aruco/__init__.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+[1.160s] copying ros2_aruco/aruco_generate_marker.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+[1.160s] running install
+[1.161s] running install_lib
+[1.162s] creating /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+[1.163s] copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/aruco_node.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+[1.163s] copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/transformations.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+[1.163s] copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/__init__.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+[1.163s] copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/aruco_generate_marker.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+[1.164s] byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/aruco_node.py to aruco_node.cpython-38.pyc
+[1.167s] byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/transformations.py to transformations.cpython-38.pyc
+[1.178s] byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/__init__.py to __init__.cpython-38.pyc
+[1.178s] byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/aruco_generate_marker.py to aruco_generate_marker.cpython-38.pyc
+[1.178s] running install_data
+[1.179s] creating /home/student/aruco_realsense/install/ros2_aruco/share/ament_index
+[1.180s] creating /home/student/aruco_realsense/install/ros2_aruco/share/ament_index/resource_index
+[1.180s] creating /home/student/aruco_realsense/install/ros2_aruco/share/ament_index/resource_index/packages
+[1.180s] copying resource/ros2_aruco -> /home/student/aruco_realsense/install/ros2_aruco/share/ament_index/resource_index/packages
+[1.181s] copying package.xml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco
+[1.181s] creating /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/launch
+[1.181s] copying launch/usb_camera_node.launch.py -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/launch
+[1.181s] creating /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+[1.181s] copying params/camera_params.yaml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+[1.181s] copying params/camera_info.yaml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+[1.181s] copying params/aruco_node.yaml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+[1.181s] running install_egg_info
+[1.181s] Copying ../../../build/ros2_aruco/ros2_aruco.egg-info to /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco-0.1.0-py3.8.egg-info
+[1.182s] running install_scripts
+[1.201s] Installing aruco_generate_marker script to /home/student/aruco_realsense/install/ros2_aruco/lib/ros2_aruco
+[1.201s] Installing aruco_node script to /home/student/aruco_realsense/install/ros2_aruco/lib/ros2_aruco
+[1.201s] writing list of installed files to '/home/student/aruco_realsense/build/ros2_aruco/install.log'
+[1.225s] Invoked command in '/home/student/aruco_realsense/src/ros2_aruco/ros2_aruco' returned '0': PYTHONPATH=/home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ros2_aruco build --build-base /home/student/aruco_realsense/build/ros2_aruco/build install --prefix /home/student/aruco_realsense/install/ros2_aruco --record /home/student/aruco_realsense/build/ros2_aruco/install.log --single-version-externally-managed

@@ -1,0 +1,6 @@
+[submodule "src/ros2_aruco"]
+	path = src/ros2_aruco
+	url = https://github.com/ipa-kut/ros2_aruco.git
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git

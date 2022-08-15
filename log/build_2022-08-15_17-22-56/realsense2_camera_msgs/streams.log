@@ -1,0 +1,314 @@
+[0.122s] Invoking command in '/home/student/aruco_realsense/build/realsense2_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake /home/student/aruco_realsense/src/realsense-ros/realsense2_camera_msgs -DCMAKE_INSTALL_PREFIX=/home/student/aruco_realsense/install/realsense2_camera_msgs
+[0.539s] -- The C compiler identification is GNU 9.4.0
+[0.539s] -- The CXX compiler identification is GNU 9.4.0
+[0.540s] -- Check for working C compiler: /usr/bin/cc
+[0.540s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.541s] -- Detecting C compiler ABI info
+[0.541s] -- Detecting C compiler ABI info - done
+[0.542s] -- Detecting C compile features
+[0.543s] -- Detecting C compile features - done
+[0.543s] -- Check for working CXX compiler: /usr/bin/c++
+[0.544s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.545s] -- Detecting CXX compiler ABI info
+[0.546s] -- Detecting CXX compiler ABI info - done
+[0.546s] -- Detecting CXX compile features
+[0.547s] -- Detecting CXX compile features - done
+[0.548s] -- Found ament_cmake: 1.1.5 (/opt/ros/galactic/share/ament_cmake/cmake)
+[0.548s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.549s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.608s] -- Found rosidl_default_generators: 1.1.1 (/opt/ros/galactic/share/rosidl_default_generators/cmake)
+[0.612s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.618s] -- Found rosidl_adapter: 2.2.2 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+[0.721s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.751s] -- Found FastRTPS: /opt/ros/galactic/include  
+[0.831s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.860s] -- Found builtin_interfaces: 1.0.3 (/opt/ros/galactic/share/builtin_interfaces/cmake)
+[0.874s] -- Found std_msgs: 2.2.4 (/opt/ros/galactic/share/std_msgs/cmake)
+[0.914s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[1.110s] -- Found ament_cmake_cppcheck: 0.10.7 (/opt/ros/galactic/share/ament_cmake_cppcheck/cmake)
+[1.111s] -- Found ament_cmake_cpplint: 0.10.7 (/opt/ros/galactic/share/ament_cmake_cpplint/cmake)
+[1.113s] -- Found ament_cmake_uncrustify: 0.10.7 (/opt/ros/galactic/share/ament_cmake_uncrustify/cmake)
+[1.115s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/galactic/share/ament_cmake_ros/cmake)
+[1.332s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.401s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.424s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[1.425s] -- Found python_cmake_module: 0.8.1 (/opt/ros/galactic/share/python_cmake_module/cmake)
+[1.449s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[1.449s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.449s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[1.449s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[1.467s] -- Found PythonExtra: .so  
+[1.523s] -- Found ament_cmake_flake8: 0.10.7 (/opt/ros/galactic/share/ament_cmake_flake8/cmake)
+[1.525s] -- Found ament_cmake_pep257: 0.10.7 (/opt/ros/galactic/share/ament_cmake_pep257/cmake)
+[1.534s] -- Configuring done
+[1.583s] -- Generating done
+[1.585s] -- Build files have been written to: /home/student/aruco_realsense/build/realsense2_camera_msgs
+[1.593s] Invoked command in '/home/student/aruco_realsense/build/realsense2_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake /home/student/aruco_realsense/src/realsense-ros/realsense2_camera_msgs -DCMAKE_INSTALL_PREFIX=/home/student/aruco_realsense/install/realsense2_camera_msgs
+[1.596s] Invoking command in '/home/student/aruco_realsense/build/realsense2_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --build /home/student/aruco_realsense/build/realsense2_camera_msgs -- -j12 -l12
+[1.633s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.633s] [35m[1mScanning dependencies of target realsense2_camera_msgs__cpp[0m
+[1.644s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.019s] [  3%] Built target realsense2_camera_msgs__cpp
+[2.041s] [  7%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[2.042s] [  7%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[2.042s] [  9%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[2.058s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_generator_c[0m
+[2.075s] [ 10%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_generator_c.dir/rosidl_generator_c/realsense2_camera_msgs/msg/detail/imu_info__functions.c.o[0m
+[2.075s] [ 14%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_generator_c.dir/rosidl_generator_c/realsense2_camera_msgs/srv/detail/device_info__functions.c.o[0m
+[2.075s] [ 14%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_generator_c.dir/rosidl_generator_c/realsense2_camera_msgs/msg/detail/metadata__functions.c.o[0m
+[2.078s] [ 16%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_generator_c.dir/rosidl_generator_c/realsense2_camera_msgs/msg/detail/extrinsics__functions.c.o[0m
+[2.152s] [ 18%] [32m[1mLinking C shared library librealsense2_camera_msgs__rosidl_generator_c.so[0m
+[2.194s] [ 18%] Built target realsense2_camera_msgs__rosidl_generator_c
+[2.205s] [ 21%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.206s] [ 21%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[2.379s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_cpp[0m
+[2.406s] [ 29%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/realsense2_camera_msgs/srv/device_info__type_support.cpp.o[0m
+[2.407s] [ 29%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/realsense2_camera_msgs/msg/extrinsics__type_support.cpp.o[0m
+[2.407s] [ 29%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/realsense2_camera_msgs/msg/metadata__type_support.cpp.o[0m
+[2.410s] [ 29%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/realsense2_camera_msgs/msg/imu_info__type_support.cpp.o[0m
+[2.445s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_introspection_cpp[0m
+[2.468s] [ 32%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/realsense2_camera_msgs/msg/detail/imu_info__type_support.cpp.o[0m
+[2.468s] [ 32%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/realsense2_camera_msgs/msg/detail/extrinsics__type_support.cpp.o[0m
+[2.470s] [ 34%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/realsense2_camera_msgs/msg/detail/metadata__type_support.cpp.o[0m
+[2.479s] [ 36%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/realsense2_camera_msgs/srv/detail/device_info__type_support.cpp.o[0m
+[2.724s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[2.760s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_c[0m
+[2.793s] [ 38%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/realsense2_camera_msgs/msg/detail/dds_fastrtps/imu_info__type_support.cpp.o[0m
+[2.813s] [ 40%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/realsense2_camera_msgs/msg/extrinsics__type_support.cpp.o[0m
+[2.829s] [ 41%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/realsense2_camera_msgs/msg/imu_info__type_support.cpp.o[0m
+[2.919s] [ 43%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/realsense2_camera_msgs/msg/metadata__type_support.cpp.o[0m
+[2.971s] [ 45%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/realsense2_camera_msgs/msg/detail/dds_fastrtps/extrinsics__type_support.cpp.o[0m
+[2.972s] [ 47%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/realsense2_camera_msgs/msg/detail/dds_fastrtps/metadata__type_support.cpp.o[0m
+[2.981s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_introspection_c[0m
+[3.020s] [ 49%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/realsense2_camera_msgs/srv/device_info__type_support.cpp.o[0m
+[3.022s] [ 50%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/realsense2_camera_msgs/srv/detail/dds_fastrtps/device_info__type_support.cpp.o[0m
+[3.060s] [ 52%] [32m[1mLinking CXX shared library librealsense2_camera_msgs__rosidl_typesupport_cpp.so[0m
+[3.169s] [ 54%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/realsense2_camera_msgs/msg/detail/extrinsics__type_support.c.o[0m
+[3.201s] [ 56%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/realsense2_camera_msgs/msg/detail/imu_info__type_support.c.o[0m
+[3.339s] [ 58%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/realsense2_camera_msgs/msg/detail/metadata__type_support.c.o[0m
+[3.381s] [ 60%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/realsense2_camera_msgs/srv/detail/device_info__type_support.c.o[0m
+[3.422s] [ 61%] [32m[1mLinking CXX shared library librealsense2_camera_msgs__rosidl_typesupport_c.so[0m
+[3.438s] [ 61%] Built target realsense2_camera_msgs__rosidl_typesupport_cpp
+[3.592s] [ 63%] [32m[1mLinking CXX shared library librealsense2_camera_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[3.731s] [ 63%] Built target realsense2_camera_msgs__rosidl_typesupport_c
+[3.735s] [ 65%] [32m[1mLinking C shared library librealsense2_camera_msgs__rosidl_typesupport_introspection_c.so[0m
+[3.940s] [ 65%] Built target realsense2_camera_msgs__rosidl_typesupport_introspection_c
+[3.978s] [ 65%] Built target realsense2_camera_msgs__rosidl_typesupport_introspection_cpp
+[4.419s] [ 67%] [32m[1mLinking CXX shared library librealsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[4.511s] [ 67%] Built target realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp
+[4.522s] [ 69%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[4.872s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_fastrtps_c[0m
+[4.893s] [ 72%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/realsense2_camera_msgs/msg/detail/metadata__type_support_c.cpp.o[0m
+[4.893s] [ 72%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/realsense2_camera_msgs/msg/detail/extrinsics__type_support_c.cpp.o[0m
+[4.893s] [ 74%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/realsense2_camera_msgs/msg/detail/imu_info__type_support_c.cpp.o[0m
+[4.894s] [ 76%] [32mBuilding CXX object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/realsense2_camera_msgs/srv/detail/device_info__type_support_c.cpp.o[0m
+[5.262s] [ 78%] [32m[1mLinking CXX shared library librealsense2_camera_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[5.341s] [ 78%] Built target realsense2_camera_msgs__rosidl_typesupport_fastrtps_c
+[5.351s] [35m[1mScanning dependencies of target realsense2_camera_msgs[0m
+[5.361s] [ 78%] Built target realsense2_camera_msgs
+[5.371s] [35m[1mScanning dependencies of target realsense2_camera_msgs__py[0m
+[5.381s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[6.101s] [ 80%] Built target realsense2_camera_msgs__py
+[6.111s] [35m[1mScanning dependencies of target realsense2_camera_msgs__python[0m
+[6.136s] [ 85%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__python.dir/rosidl_generator_py/realsense2_camera_msgs/msg/_metadata_s.c.o[0m
+[6.137s] [ 85%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__python.dir/rosidl_generator_py/realsense2_camera_msgs/msg/_imu_info_s.c.o[0m
+[6.137s] [ 85%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__python.dir/rosidl_generator_py/realsense2_camera_msgs/msg/_extrinsics_s.c.o[0m
+[6.137s] [ 87%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__python.dir/rosidl_generator_py/realsense2_camera_msgs/srv/_device_info_s.c.o[0m
+[6.264s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/realsense2_camera_msgs/librealsense2_camera_msgs__python.so[0m
+[6.310s] [ 89%] Built target realsense2_camera_msgs__python
+[6.321s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[6.322s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_c__pyext[0m
+[6.322s] [35m[1mScanning dependencies of target realsense2_camera_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[6.341s] [ 92%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/realsense2_camera_msgs/_realsense2_camera_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[6.341s] [ 92%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/realsense2_camera_msgs/_realsense2_camera_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[6.344s] [ 94%] [32mBuilding C object CMakeFiles/realsense2_camera_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/realsense2_camera_msgs/_realsense2_camera_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[6.434s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[6.435s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[6.436s] [100%] [32m[1mLinking CXX shared library rosidl_generator_py/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[6.474s] [100%] Built target realsense2_camera_msgs__rosidl_typesupport_c__pyext
+[6.474s] [100%] Built target realsense2_camera_msgs__rosidl_typesupport_introspection_c__pyext
+[6.503s] [100%] Built target realsense2_camera_msgs__rosidl_typesupport_fastrtps_c__pyext
+[6.514s] Invoked command in '/home/student/aruco_realsense/build/realsense2_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --build /home/student/aruco_realsense/build/realsense2_camera_msgs -- -j12 -l12
+[6.599s] Invoking command in '/home/student/aruco_realsense/build/realsense2_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --install /home/student/aruco_realsense/build/realsense2_camera_msgs
+[6.608s] -- Install configuration: ""
+[6.608s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/ament_index/resource_index/rosidl_interfaces/realsense2_camera_msgs
+[6.608s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs
+[6.608s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv
+[6.608s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__functions.c
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__functions.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__struct.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__type_support.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/device_info.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__functions.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__functions.c
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__struct.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__functions.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__functions.c
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__functions.h
+[6.609s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__type_support.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__type_support.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__type_support.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__struct.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__struct.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__functions.c
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/imu_info.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/rosidl_generator_c__visibility_control.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/metadata.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/extrinsics.h
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/library_path.sh
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/library_path.dsv
+[6.610s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_generator_c.so
+[6.611s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_generator_c.so" to ""
+[6.611s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs
+[6.611s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv
+[6.611s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail
+[6.611s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__rosidl_typesupport_fastrtps_c.h
+[6.611s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg
+[6.611s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail
+[6.611s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_fastrtps_c.h
+[6.611s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__rosidl_typesupport_fastrtps_c.h
+[6.611s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__rosidl_typesupport_fastrtps_c.h
+[6.611s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.611s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_fastrtps_c.so
+[6.612s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[6.612s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs
+[6.612s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv
+[6.612s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail
+[6.612s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__rosidl_typesupport_fastrtps_cpp.hpp
+[6.612s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/dds_fastrtps
+[6.612s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg
+[6.612s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.612s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail
+[6.612s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__rosidl_typesupport_fastrtps_cpp.hpp
+[6.612s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__rosidl_typesupport_fastrtps_cpp.hpp
+[6.613s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_fastrtps_cpp.hpp
+[6.613s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/dds_fastrtps
+[6.613s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.so
+[6.613s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[6.613s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs
+[6.613s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv
+[6.613s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail
+[6.613s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__rosidl_typesupport_introspection_c.h
+[6.613s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__type_support.c
+[6.613s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg
+[6.613s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail
+[6.613s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_introspection_c.h
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__type_support.c
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__rosidl_typesupport_introspection_c.h
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__type_support.c
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__type_support.c
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__rosidl_typesupport_introspection_c.h
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_introspection_c.so
+[6.614s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_introspection_c.so" to ""
+[6.614s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_c.so
+[6.615s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_c.so" to ""
+[6.615s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs
+[6.615s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv
+[6.615s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__traits.hpp
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__builder.hpp
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__struct.hpp
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/device_info.hpp
+[6.615s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg
+[6.615s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__struct.hpp
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__traits.hpp
+[6.615s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__struct.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__traits.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__struct.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__builder.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__builder.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__traits.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__builder.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/imu_info.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/extrinsics.hpp
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/metadata.hpp
+[6.616s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs
+[6.616s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv
+[6.616s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail
+[6.616s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__type_support.cpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/srv/detail/device_info__rosidl_typesupport_introspection_cpp.hpp
+[6.617s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg
+[6.617s] -- Up-to-date: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__type_support.cpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_introspection_cpp.hpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__rosidl_typesupport_introspection_cpp.hpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/metadata__rosidl_typesupport_introspection_cpp.hpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/extrinsics__type_support.cpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/include/realsense2_camera_msgs/msg/detail/imu_info__type_support.cpp
+[6.617s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_introspection_cpp.so
+[6.617s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[6.618s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_cpp.so
+[6.618s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__rosidl_typesupport_cpp.so" to ""
+[6.618s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/pythonpath.sh
+[6.618s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/pythonpath.dsv
+[6.618s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/__init__.py
+[6.644s] Compiling '/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/__init__.py'...
+[6.647s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/_extrinsics.py
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/__init__.py
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/_imu_info_s.c
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/_metadata_s.c
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/_imu_info.py
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/_extrinsics_s.c
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/msg/_metadata.py
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/srv
+[6.648s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/srv/_device_info.py
+[6.649s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/srv/__init__.py
+[6.649s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/srv/_device_info_s.c
+[6.649s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[6.649s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so" to ""
+[6.649s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[6.650s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" to ""
+[6.650s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[6.651s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/python3.8/site-packages/realsense2_camera_msgs/realsense2_camera_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" to ""
+[6.651s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__python.so
+[6.651s] -- Set runtime path of "/home/student/aruco_realsense/install/realsense2_camera_msgs/lib/librealsense2_camera_msgs__python.so" to ""
+[6.651s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/msg/IMUInfo.idl
+[6.651s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/msg/Extrinsics.idl
+[6.651s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/msg/Metadata.idl
+[6.651s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/srv/DeviceInfo.idl
+[6.652s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/msg/IMUInfo.msg
+[6.652s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/msg/Extrinsics.msg
+[6.652s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/msg/Metadata.msg
+[6.652s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/srv/DeviceInfo.srv
+[6.652s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/srv/DeviceInfo_Request.msg
+[6.652s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/srv/DeviceInfo_Response.msg
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/ament_index/resource_index/package_run_dependencies/realsense2_camera_msgs
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/ament_index/resource_index/parent_prefix_path/realsense2_camera_msgs
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/ament_prefix_path.sh
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/ament_prefix_path.dsv
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/path.sh
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/environment/path.dsv
+[6.653s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/local_setup.bash
+[6.654s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/local_setup.sh
+[6.654s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/local_setup.zsh
+[6.654s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/local_setup.dsv
+[6.654s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/package.dsv
+[6.654s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/ament_index/resource_index/packages/realsense2_camera_msgs
+[6.654s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_generator_cExport.cmake
+[6.655s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_generator_cExport-noconfig.cmake
+[6.655s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_introspection_cExport.cmake
+[6.655s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[6.655s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_cExport.cmake
+[6.655s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[6.656s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_generator_cppExport.cmake
+[6.656s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[6.656s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[6.656s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_cppExport.cmake
+[6.656s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[6.656s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/rosidl_cmake-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgsConfig.cmake
+[6.657s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake/realsense2_camera_msgsConfig-version.cmake
+[6.658s] -- Installing: /home/student/aruco_realsense/install/realsense2_camera_msgs/share/realsense2_camera_msgs/package.xml
+[6.662s] Invoked command in '/home/student/aruco_realsense/build/realsense2_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --install /home/student/aruco_realsense/build/realsense2_camera_msgs

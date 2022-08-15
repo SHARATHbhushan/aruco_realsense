@@ -1,0 +1,113 @@
+[0.428s] Invoking command in '/home/student/aruco_realsense/build/ros2_aruco_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --build /home/student/aruco_realsense/build/ros2_aruco_interfaces -- -j12 -l12
+[0.574s] [  3%] Built target ros2_aruco_interfaces__cpp
+[0.589s] [ 12%] Built target ros2_aruco_interfaces__rosidl_generator_c
+[0.694s] [ 22%] Built target ros2_aruco_interfaces__rosidl_typesupport_introspection_cpp
+[0.700s] [ 32%] Built target ros2_aruco_interfaces__rosidl_typesupport_cpp
+[0.714s] [ 41%] Built target ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.717s] [ 51%] Built target ros2_aruco_interfaces__rosidl_typesupport_introspection_c
+[0.720s] [ 61%] Built target ros2_aruco_interfaces__rosidl_typesupport_c
+[0.832s] [ 70%] Built target ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c
+[0.922s] [ 70%] Built target ros2_aruco_interfaces
+[1.013s] [ 74%] Built target ros2_aruco_interfaces__py
+[1.141s] [ 80%] Built target ros2_aruco_interfaces__python
+[1.251s] [ 87%] Built target ros2_aruco_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.252s] [ 93%] Built target ros2_aruco_interfaces__rosidl_typesupport_c__pyext
+[1.262s] [100%] Built target ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.309s] Invoked command in '/home/student/aruco_realsense/build/ros2_aruco_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --build /home/student/aruco_realsense/build/ros2_aruco_interfaces -- -j12 -l12
+[1.483s] Invoking command in '/home/student/aruco_realsense/build/ros2_aruco_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --install /home/student/aruco_realsense/build/ros2_aruco_interfaces
+[1.494s] -- Install configuration: ""
+[1.495s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ament_index/resource_index/rosidl_interfaces/ros2_aruco_interfaces
+[1.495s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces
+[1.495s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg
+[1.495s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail
+[1.496s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__type_support.h
+[1.496s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__functions.h
+[1.496s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__functions.c
+[1.496s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__struct.h
+[1.496s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.496s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/aruco_markers.h
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/library_path.sh
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/library_path.dsv
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_generator_c.so
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail
+[1.497s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_fastrtps_c.h
+[1.498s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.500s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.500s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces
+[1.500s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg
+[1.500s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.500s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail
+[1.501s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/dds_fastrtps
+[1.501s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_fastrtps_cpp.hpp
+[1.501s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.501s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces
+[1.501s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg
+[1.502s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail
+[1.503s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__type_support.c
+[1.503s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_introspection_c.h
+[1.503s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.504s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_introspection_c.so
+[1.504s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_c.so
+[1.504s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces
+[1.504s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg
+[1.504s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail
+[1.505s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__traits.hpp
+[1.507s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__struct.hpp
+[1.507s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__builder.hpp
+[1.507s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/aruco_markers.hpp
+[1.507s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces
+[1.507s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg
+[1.508s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail
+[1.508s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_introspection_cpp.hpp
+[1.508s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/msg/detail/aruco_markers__type_support.cpp
+[1.508s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.510s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_cpp.so
+[1.511s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/pythonpath.sh
+[1.511s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/pythonpath.dsv
+[1.513s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/__init__.py
+[1.535s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/msg
+[1.537s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/msg/__init__.py
+[1.537s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/msg/_aruco_markers.py
+[1.539s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/msg/_aruco_markers_s.c
+[1.540s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[1.540s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[1.540s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/python3.8/site-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[1.541s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__python.so
+[1.541s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/msg/ArucoMarkers.idl
+[1.541s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/msg/ArucoMarkers.msg
+[1.541s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ament_index/resource_index/package_run_dependencies/ros2_aruco_interfaces
+[1.542s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ament_index/resource_index/parent_prefix_path/ros2_aruco_interfaces
+[1.542s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/ament_prefix_path.sh
+[1.544s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/ament_prefix_path.dsv
+[1.544s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/path.sh
+[1.545s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/path.dsv
+[1.546s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.bash
+[1.547s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.sh
+[1.547s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.zsh
+[1.548s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.dsv
+[1.548s] -- Installing: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/package.dsv
+[1.548s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ament_index/resource_index/packages/ros2_aruco_interfaces
+[1.548s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_generator_cExport.cmake
+[1.550s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.550s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.551s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.551s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cExport.cmake
+[1.551s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.555s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_generator_cppExport.cmake
+[1.556s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.556s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.556s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cppExport.cmake
+[1.556s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.556s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.556s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfacesConfig.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfacesConfig-version.cmake
+[1.557s] -- Up-to-date: /home/student/aruco_realsense/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/package.xml
+[1.563s] Invoked command in '/home/student/aruco_realsense/build/ros2_aruco_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/aruco_realsense/install/aruco_rs2:/home/student/aruco_realsense/install/ros2_aruco:/opt/ros/galactic /usr/bin/cmake --install /home/student/aruco_realsense/build/ros2_aruco_interfaces
