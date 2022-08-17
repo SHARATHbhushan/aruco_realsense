@@ -1,0 +1,6 @@
+CMake Error at cmake_install.cmake:41 (file):
+  file INSTALL cannot find
+  "/home/student/aruco_realsense/src/ur5e_workcell_bringup/workcell_description/world":
+  No such file or directory.
+
+

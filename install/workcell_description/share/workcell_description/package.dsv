@@ -1,0 +1,8 @@
+source;share/workcell_description/hook/cmake_prefix_path.ps1
+source;share/workcell_description/hook/cmake_prefix_path.dsv
+source;share/workcell_description/hook/cmake_prefix_path.sh
+source;share/workcell_description/local_setup.bash
+source;share/workcell_description/local_setup.dsv
+source;share/workcell_description/local_setup.ps1
+source;share/workcell_description/local_setup.sh
+source;share/workcell_description/local_setup.zsh

@@ -1,0 +1,48 @@
+running egg_info
+creating ../../../build/ros2_aruco/ros2_aruco.egg-info
+writing ../../../build/ros2_aruco/ros2_aruco.egg-info/PKG-INFO
+writing dependency_links to ../../../build/ros2_aruco/ros2_aruco.egg-info/dependency_links.txt
+writing entry points to ../../../build/ros2_aruco/ros2_aruco.egg-info/entry_points.txt
+writing requirements to ../../../build/ros2_aruco/ros2_aruco.egg-info/requires.txt
+writing top-level names to ../../../build/ros2_aruco/ros2_aruco.egg-info/top_level.txt
+writing manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+reading manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+writing manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/student/aruco_realsense/build/ros2_aruco/build
+creating /home/student/aruco_realsense/build/ros2_aruco/build/lib
+creating /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+copying ros2_aruco/aruco_node.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+copying ros2_aruco/transformations.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+copying ros2_aruco/__init__.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+copying ros2_aruco/aruco_generate_marker.py -> /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco
+running install
+running install_lib
+creating /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/aruco_node.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/transformations.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/__init__.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+copying /home/student/aruco_realsense/build/ros2_aruco/build/lib/ros2_aruco/aruco_generate_marker.py -> /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco
+byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/aruco_node.py to aruco_node.cpython-38.pyc
+byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/transformations.py to transformations.cpython-38.pyc
+byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco/aruco_generate_marker.py to aruco_generate_marker.cpython-38.pyc
+running install_data
+creating /home/student/aruco_realsense/install/ros2_aruco/share/ament_index
+creating /home/student/aruco_realsense/install/ros2_aruco/share/ament_index/resource_index
+creating /home/student/aruco_realsense/install/ros2_aruco/share/ament_index/resource_index/packages
+copying resource/ros2_aruco -> /home/student/aruco_realsense/install/ros2_aruco/share/ament_index/resource_index/packages
+copying package.xml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco
+creating /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/launch
+copying launch/usb_camera_node.launch.py -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/launch
+creating /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+copying params/camera_params.yaml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+copying params/camera_info.yaml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+copying params/aruco_node.yaml -> /home/student/aruco_realsense/install/ros2_aruco/share/ros2_aruco/params
+running install_egg_info
+Copying ../../../build/ros2_aruco/ros2_aruco.egg-info to /home/student/aruco_realsense/install/ros2_aruco/lib/python3.8/site-packages/ros2_aruco-0.1.0-py3.8.egg-info
+running install_scripts
+Installing aruco_generate_marker script to /home/student/aruco_realsense/install/ros2_aruco/lib/ros2_aruco
+Installing aruco_node script to /home/student/aruco_realsense/install/ros2_aruco/lib/ros2_aruco
+writing list of installed files to '/home/student/aruco_realsense/build/ros2_aruco/install.log'

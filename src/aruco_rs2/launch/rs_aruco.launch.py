@@ -22,7 +22,7 @@ def generate_launch_description():
         Node(
             package="tf2_ros",
             executable="static_transform_publisher",
-            arguments=["1","0","0","0","0","0","world","default_cam"],
+            arguments=["1","0","0","0","0","0","world","camera_link"],
             output="screen"
         ),
         Node(

@@ -1,0 +1,34 @@
+[0.896s] Invoking command in '/home/student/aruco_realsense/src/aruco_rs2': PYTHONPATH=/home/student/aruco_realsense/install/aruco_rs2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/aruco_rs2 build --build-base /home/student/aruco_realsense/build/aruco_rs2/build install --prefix /home/student/aruco_realsense/install/aruco_rs2 --record /home/student/aruco_realsense/build/aruco_rs2/install.log --single-version-externally-managed
+[1.121s] running egg_info
+[1.121s] creating ../../build/aruco_rs2/aruco_rs2.egg-info
+[1.121s] writing ../../build/aruco_rs2/aruco_rs2.egg-info/PKG-INFO
+[1.122s] writing dependency_links to ../../build/aruco_rs2/aruco_rs2.egg-info/dependency_links.txt
+[1.122s] writing entry points to ../../build/aruco_rs2/aruco_rs2.egg-info/entry_points.txt
+[1.122s] writing requirements to ../../build/aruco_rs2/aruco_rs2.egg-info/requires.txt
+[1.122s] writing top-level names to ../../build/aruco_rs2/aruco_rs2.egg-info/top_level.txt
+[1.124s] writing manifest file '../../build/aruco_rs2/aruco_rs2.egg-info/SOURCES.txt'
+[1.158s] reading manifest file '../../build/aruco_rs2/aruco_rs2.egg-info/SOURCES.txt'
+[1.159s] writing manifest file '../../build/aruco_rs2/aruco_rs2.egg-info/SOURCES.txt'
+[1.159s] running build
+[1.159s] running build_py
+[1.159s] creating /home/student/aruco_realsense/build/aruco_rs2/build
+[1.159s] creating /home/student/aruco_realsense/build/aruco_rs2/build/lib
+[1.159s] creating /home/student/aruco_realsense/build/aruco_rs2/build/lib/aruco_rs2
+[1.159s] copying aruco_rs2/__init__.py -> /home/student/aruco_realsense/build/aruco_rs2/build/lib/aruco_rs2
+[1.160s] running install
+[1.160s] running install_lib
+[1.161s] creating /home/student/aruco_realsense/install/aruco_rs2/lib/python3.8/site-packages/aruco_rs2
+[1.161s] copying /home/student/aruco_realsense/build/aruco_rs2/build/lib/aruco_rs2/__init__.py -> /home/student/aruco_realsense/install/aruco_rs2/lib/python3.8/site-packages/aruco_rs2
+[1.161s] byte-compiling /home/student/aruco_realsense/install/aruco_rs2/lib/python3.8/site-packages/aruco_rs2/__init__.py to __init__.cpython-38.pyc
+[1.163s] running install_data
+[1.163s] creating /home/student/aruco_realsense/install/aruco_rs2/share/ament_index
+[1.163s] creating /home/student/aruco_realsense/install/aruco_rs2/share/ament_index/resource_index
+[1.164s] creating /home/student/aruco_realsense/install/aruco_rs2/share/ament_index/resource_index/packages
+[1.164s] copying resource/aruco_rs2 -> /home/student/aruco_realsense/install/aruco_rs2/share/ament_index/resource_index/packages
+[1.164s] copying package.xml -> /home/student/aruco_realsense/install/aruco_rs2/share/aruco_rs2
+[1.164s] copying launch/rs_aruco.launch.py -> /home/student/aruco_realsense/install/aruco_rs2/share/aruco_rs2
+[1.164s] running install_egg_info
+[1.165s] Copying ../../build/aruco_rs2/aruco_rs2.egg-info to /home/student/aruco_realsense/install/aruco_rs2/lib/python3.8/site-packages/aruco_rs2-0.0.0-py3.8.egg-info
+[1.166s] running install_scripts
+[1.183s] writing list of installed files to '/home/student/aruco_realsense/build/aruco_rs2/install.log'
+[1.206s] Invoked command in '/home/student/aruco_realsense/src/aruco_rs2' returned '0': PYTHONPATH=/home/student/aruco_realsense/install/aruco_rs2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/aruco_rs2 build --build-base /home/student/aruco_realsense/build/aruco_rs2/build install --prefix /home/student/aruco_realsense/install/aruco_rs2 --record /home/student/aruco_realsense/build/aruco_rs2/install.log --single-version-externally-managed
