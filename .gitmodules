@@ -1,12 +1,6 @@
-[submodule "src/ros2_aruco"]
-	path = src/ros2_aruco
-	url = https://github.com/ipa-kut/ros2_aruco.git
 [submodule "src/realsense-ros"]
 	path = src/realsense-ros
 	url = https://github.com/IntelRealSense/realsense-ros.git
-[submodule "src/ur5e_workcell_bringup"]
-	path = src/ur5e_workcell_bringup
-	url = https://github.com/ipa-rar/ur5e_workcell_bringup.git
 [submodule "src/Universal_Robots_ROS2_Description"]
 	path = src/Universal_Robots_ROS2_Description
 	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_Description.git
