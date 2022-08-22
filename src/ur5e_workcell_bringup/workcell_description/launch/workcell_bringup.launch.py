@@ -54,7 +54,6 @@ def generate_launch_description():
         name='joint_state_publisher_gui',
         parameters=[{"use_sim_time": use_sim_time},],
     )
-
     nodes_to_start=[
         robot_state_pub_node,
         rviz_node,
@@ -62,4 +61,3 @@ def generate_launch_description():
     ]
 
     return LaunchDescription(declared_arguments+nodes_to_start)
-

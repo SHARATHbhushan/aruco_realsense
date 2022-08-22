@@ -1,8 +1,8 @@
 /aruco_node:
   ros__parameters:
     aruco_dictionary_id: DICT_5X5_250
-    camera_frame: default_cam
-    camera_info_topic: /camera/camera_info
-    image_topic: /camera/image_raw
+    camera_frame: camera_link
+    camera_info_topic: /camera/color/camera_info
+    image_topic: /camera/color/image_raw
     marker_size: 0.047
     use_sim_time: false
