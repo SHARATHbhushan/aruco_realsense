@@ -21,12 +21,6 @@ def generate_launch_description():
     return LaunchDescription([
         
         Node(
-            package="tf2_ros",
-            executable="static_transform_publisher",
-            arguments=["1","0","0","0","0","0","world","camera_link"],
-            output="screen"
-        ),
-        Node(
             package="ros2_aruco",
             executable="aruco_node",
             output="screen",
